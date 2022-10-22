@@ -22,34 +22,9 @@
 ```
 
 ```
-                       Duvidas? www.youtube.com/watch?v=QPky2NRIEM4&t=90s
+                       
 ```
 
-<div align="center">
 
-
-	
-	
-	
-
-
-
-
-<h3 align="center"> EPG
-<h3 align="center"> EPG para enigma 2</h2>
-
-
-<img src="https://img.shields.io/static/v1?label=Guia EPG&message=sam564&color=7159c1&style=for-the-badge&logo=ghost"/>
-<h4 align="center"> 
-	🚧  Sempre 🚀 atualizando...  🚧
-</h4>
-
-<h1 align="center">
-  <img alt="Aguarde pelo próximo" title="#Aguarde pelo próximo" src="./assets/banner.png" />
-
-
-
-</p>
-	
 
 
